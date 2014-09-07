@@ -4,10 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta id="viewport" name="viewport" content="width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
 <title>テストトップ画面</title>
+<link rel="stylesheet" href="/stylesheets/iphone.css" />
 </head>
 <body>
-<div>
+<div id="header" class="pre">
 <p>ログインしてません</p>
 <h1>トップ画面</h1>
 <a href="/login">ログイン</a>
